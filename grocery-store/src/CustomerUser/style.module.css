@@ -1,0 +1,28 @@
+.Cont{
+    padding-left: 10px;
+    border-color: green;
+    border-radius: 10px;
+}
+.CardContainer{
+    display: flex;
+   flex-direction: row;
+   
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+}
+.card{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.mainCard{
+    background-color: black;
+}
+.title{
+    color: aquamarine;
+}
